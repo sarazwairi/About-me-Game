@@ -9,11 +9,14 @@ header{
 }
 
 img{
-    padding: 100px;
+    padding: 0px;
     border-radius: 50%;
     max-width: 500px;
     max-height: 500px;
+    border-style: solid;
 }
+
+
 
 p{
     font-size: 20px;
@@ -41,3 +44,34 @@ section{
     font-size: 20px;
 }
 
+#one{
+    background-color: azure;
+    border: black;
+    border-style: ridge;
+    border-style: ridge;
+}
+    
+#two{
+    background-color: cadetblue;
+    border: black;
+    border-style: ridge;
+}
+
+#three{
+    background-color: cornsilk;
+    border: black;
+    border-style: ridge;
+
+}
+
+.four{
+    font-size: 30px;  
+}
+
+.five{
+    font-size: 30px;
+}
+
+.six{
+    font-size: 30px;
+}

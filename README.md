@@ -19,5 +19,10 @@
 >none.
 >>
 >How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
->
+>>
 >took a round 3 h as i thought
+>>
+>LAB 3;
+>i added the top ten,experiances,education lists inside HTML.
+>i added question 6 and 7.
+>i added counter to count the final result.
