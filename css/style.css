@@ -1,11 +1,14 @@
 body{
-    width: 1000px;
+    width: 800px;
     margin: auto;
     background-color: rgb(215, 241, 238);
 }
 
 header{
+    position: sticky;
+    top:20px;
     text-align: center;
+
 }
 
 img{
@@ -48,7 +51,7 @@ section{
     background-color: azure;
     border: black;
     border-style: ridge;
-    border-style: ridge;
+    position: static;
 }
     
 #two{
@@ -66,12 +69,15 @@ section{
 
 .four{
     font-size: 30px;  
+    position: static;
 }
 
 .five{
     font-size: 30px;
+    position: static;
 }
 
 .six{
     font-size: 30px;
+    position: static;
 }
