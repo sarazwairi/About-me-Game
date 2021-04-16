@@ -8,15 +8,16 @@ body{
     background-size: cover;
     background-attachment: scroll;
 }
-header{
-    position: sticky;
-}
 
 h1.one{
-    top:20px;
+    margin-top: 5%;
     text-align: center;
     color:black;
     font-weight: bold;
+}
+img header{
+    position: sticky;
+    top:0;
 }
 p#one{
     margin: 30px;
