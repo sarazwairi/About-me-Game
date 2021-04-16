@@ -1,7 +1,8 @@
 # About-me-Game
 
 ___
->LAB-02
+
+## LAB-02
 >
 >About Me, with a guessing game
 >
@@ -35,22 +36,28 @@ ___
 ><https://github.com/sarazwairi/About-me-Game/pull/1> (Links to an external site.)
 
 ___
-lab 4 pair programming :
+
+## lab 4 pair programming
 
 How did the pair programming process go in general?
-     it was fantastic , i enjoyed working with nemh .
+> it was fantastic , i enjoyed working with nemh .
 
 Did you learn anything from your partner? If so, what?
-     yes , we get familiar with functions more.
+> yes , we get familiar with functions more.
 
 What was the most difficult part of the assignment today?
-     the process it self confusing .
+> the process it self confusing .
 
 What was the easiest part of the assignment today?
-     terminal steps.
+> terminal steps.
 
 Anything else you’d like to share?
-     none
+> none
 
 How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
-      took 2 h and as we thought .
+>took 2 h and as we thought .
+___
+
+## lab 5:
+
+I creat cssedit branch to do my fainal CSS editing and followed by APC.
