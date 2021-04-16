@@ -8,13 +8,26 @@ body{
     background-size: cover;
     background-attachment: scroll;
 }
+.wrap{
+    width: 50%;
+}
 h1.one{
     position: sticky;
     top:20px;
     text-align: center;
     color:black;
-    opacity: 0.5;
-
+    font-weight: bold;
+}
+p#one{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;  
+    opacity:0.6;
+}
+p{
+    font-weight: bold;
+    color: black;
+}
 
 ul#two{
   margin: 30px;
@@ -38,6 +51,17 @@ p.three{
     font-weight: bold;
     color: black;
     
+}
+ol#three{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;  
+    opacity:0.6;
+}
+
+.four{
+    font-weight: bold;
+    color: black;
 }
 footer{
     text-align: center;
