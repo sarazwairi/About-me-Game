@@ -9,7 +9,7 @@ body{
     background-attachment: scroll;
 }
 
-h1.one{
+h1{
     position: sticky;
     top:20px;
     text-align: center;
@@ -61,7 +61,6 @@ p.three{
     font-weight: bold;
     color: black;
     font-size: 23px;
-    margin: 5%;
     
 }
 ol#three{
@@ -80,6 +79,7 @@ ol#three{
 .four{
     font-weight: bold;
     color: black;
+    margin-left: 5%;
 }
 footer{
     text-align: center;
