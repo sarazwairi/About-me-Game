@@ -15,10 +15,13 @@ h1.one{
     color:black;
     font-weight: bold;
 }
-img header{
-    position: sticky;
-    top:0;
+
+img{
+    border: 1px solid black;   
+    width: 200px;
+    float: left;
 }
+
 p#one{
     margin: 30px;
     background-color: #ffffff;
@@ -29,6 +32,7 @@ p#one{
     margin-right: 100px;
     margin-top: 200px;
 }
+
 p{
     font-weight: bold;
     color: black;
@@ -36,14 +40,14 @@ p{
 }
 
 ul#two{
-  margin: 30px;
-  background-color: #ffffff;
-  border: 1px solid black;  
-  opacity:0.6;
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-top: 100px;
-  padding-bottom: 100px;
+     margin: 30px;
+     background-color: #ffffff;
+     border: 1px solid black;  
+     opacity:0.6;
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-top: 100px;
+     padding-bottom: 100px;
 }
 
 h3.two{
@@ -66,6 +70,7 @@ p.three{
     font-size: 23px;
     
 }
+
 ol#three{
     margin-left: 30%;
     background-color: #ffffff;
@@ -83,27 +88,37 @@ ol#three{
     font-weight: bold;
     color: black;
     margin-left: 5%;
-}
+} 
+
 footer{
     text-align: center;
+    color: black;
+    font-weight: bold;
 }
 
-nav{
+li.five{
     list-style-type: none;
     background-color:rgb(233, 219, 230);
-    display:inline;
+    display:inline-block;
     font-size: 20px;
     text-transform: uppercase;
     color: black;
-   
+    margin-right: 82.094px;
 }
 
+li.five:hover{
+    background-color: rgb(127, 146, 108);
+}
+
+ul{
+    padding-right: 40px;
+
+}
 
 section{
     padding: 50px;
     font-size: 20px;
 }
-
 
 #four{
     font-size: 30px;  
